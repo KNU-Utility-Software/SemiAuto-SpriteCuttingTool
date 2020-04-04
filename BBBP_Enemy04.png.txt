@@ -1,0 +1,41 @@
+BAXXXX01
+$INFO
+type=
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+$HEAD
+ani_type= 1
+tile_direction= -1
+frame_count=6
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+$IMGBBBP_Enemy04.png,BBBP_Enemy04.png
+$DATA
+
+#BITMAP TILE DATA
+#TILE DATA
+
+%ANI
+
+>0
+#src x, y, w, h
+S, 0, 6, 36, 114, 117, 0, 63:94, spr-0
+
+#src x, y, w, h
+S, 0, 148, 34, 142, 124, 0, 219:96, spr-1
+
+#src x, y, w, h
+S, 0, 303, 37, 124, 128, 0, 365:101, spr-2
+
+#src x, y, w, h
+S, 0, 3, 174, 122, 126, 0, 64:237, spr-3
+
+#src x, y, w, h
+S, 0, 153, 180, 125, 119, 0, 215:239, spr-4
+
+#src x, y, w, h
+S, 0, 303, 184, 115, 117, 0, 360:242, spr-5
+
+%FRAME_DELAY
+>0
+#3
+10
+

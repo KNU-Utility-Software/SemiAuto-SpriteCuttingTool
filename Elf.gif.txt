@@ -1,0 +1,41 @@
+#image name
+Elf.gif
+#frame count
+5
+
+#left top right bottom
+60 3 98 46 
+#center x, y
+79 24 
+#animation time
+0.1
+
+#left top right bottom
+100 4 140 55 
+#center x, y
+120 29 
+#animation time
+0.1
+
+#left top right bottom
+139 4 190 50 
+#center x, y
+164 27 
+#animation time
+0.1
+
+#left top right bottom
+57 67 94 106 
+#center x, y
+75 86 
+#animation time
+0.1
+
+#left top right bottom
+94 53 139 111 
+#center x, y
+116 82 
+#animation time
+0.1
+
+
