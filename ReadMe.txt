@@ -1,1 +1,1 @@
-# SemiAuto-SpriteCuttingTool
+ SemiAuto-SpriteCuttingTool
